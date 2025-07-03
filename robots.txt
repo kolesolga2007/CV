@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kolesolga2007.github.io/CV/sitemap.xml

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kolesolga2007.github.io/CV/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kolesolga2007.github.io/CV/</loc>
+</url>
+<url>
+<loc>https://kolesolga2007.github.io/CV/about/</loc>
+<lastmod>2025-07-03T03:31:51-06:00</lastmod>
+</url>
+<url>
+<loc>https://kolesolga2007.github.io/CV/congresses/</loc>
+<lastmod>2025-07-03T03:40:44-06:00</lastmod>
+</url>
+<url>
+<loc>https://kolesolga2007.github.io/CV/papers/</loc>
+<lastmod>2025-06-28T03:35:50-06:00</lastmod>
+</url>
+<url>
+<loc>https://kolesolga2007.github.io/CV/thesis-direction/</loc>
+<lastmod>2025-05-20T00:13:38-06:00</lastmod>
+</url>
+</urlset>

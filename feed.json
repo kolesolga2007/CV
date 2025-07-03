@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CV",
+    "description": "",
+    "home_page_url": "https://kolesolga2007.github.io/CV",
+    "feed_url": "https://kolesolga2007.github.io/CV/feed.json",
+    "user_comment": "",
+    "icon": "https://kolesolga2007.github.io/CV/media/website/Drawing.png",
+    "author": {
+        "name": "Olga Kolesnikova"
+    },
+    "items": [
+    ]
+}
